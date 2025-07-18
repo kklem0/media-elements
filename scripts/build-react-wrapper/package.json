@@ -8,7 +8,7 @@
     "build-react-wrapper": "./build.js"
   },
   "dependencies": {
-    "ce-la-react": "^0.3.0",
+    "ce-la-react": "github:kklem0/ce-la-react#main",
     "tsup": "^8.3.5"
   }
 }
